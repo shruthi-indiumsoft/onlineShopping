@@ -3,7 +3,7 @@ public class LinearSearch {
         int[]  a = {1, 2, 3, 4,5};
        int x=search(a, 5);
         System.out.println(x);
-         System.out.println("x");
+         System.out.println("0");
     }
 
     static int search(int[] arr, int k) {
